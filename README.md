@@ -68,7 +68,8 @@ Make some changes in the code you have written in any of the file then use next 
 10.	git log 
 11.	git merge update1 -this merge the update code to master
 12.	git log -p -2 -We can see the logs of the same commit in update to the master now.
-13.	git checkout -b nodeintegration -It will switch and make the branch in this command 
+13.	git checkout -b nodeintegration -It will switch and make the branch in this command
+    
 Create a js file and add some printing code in it then commit 
 1.	git commit -a -m “Added the node file in the code”
 2.	git status 
@@ -79,6 +80,7 @@ Create a js file and add some printing code in it then commit
 7.	git status 
 8.	git checkout nodeintegration
 9.	files again comes
+10.	
 Now talk about GitHub service (Microsoft service)
 
 On command line 
@@ -92,4 +94,3 @@ On command line
 8-	copy the clone url
 9-	git clone url foldernanme  (clone to the folder name )
 
-![image](https://github.com/user-attachments/assets/faf35554-c5be-41d1-9273-ed5864ea99d2)
