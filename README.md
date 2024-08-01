@@ -80,7 +80,8 @@ Create a js file and add some printing code in it then commit
 7.	git status 
 8.	git checkout nodeintegration
 9.	files again comes
-10.	
+
+   
 Now talk about GitHub service (Microsoft service)
 
 On command line 
