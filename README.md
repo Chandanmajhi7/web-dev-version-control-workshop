@@ -38,7 +38,7 @@ GIT commands that are important to learn to use command line
 32.	git log -p -2 – If you want to see 2 commits
 33.	git status -s – shows the summarized status(modify the file then use this command )
 34.	git add file.html 
-35.	git status -s  shows the m in green
+35.	git status -s - shows the m in green
 36.	touch  .gitignore -Files that you don’t want tag 
 37.	touch mylog.log -Example of log file write anything
 38.	in gitignore write mylogs.log to ignoire all the file with this name
