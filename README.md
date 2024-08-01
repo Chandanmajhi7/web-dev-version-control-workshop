@@ -85,12 +85,20 @@ Now talk about GitHub service (Microsoft service)
 
 On command line 
 1-	git checkout master 
+
 2-	remote repository 
+
 3-	paste the repository origin URL in the GitHub 
+
 4-	git remote 
+
 5-	git remote -v (push and fetch urls)
+
 6-	git push origin master ( as the private repo then it will show there is no repo)
+
 7-	create new folder on desktop on clone
+
 8-	copy the clone url
+
 9-	git clone url foldernanme  (clone to the folder name )
 
