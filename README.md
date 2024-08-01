@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for the Mastering Web Applications and
 
 GIT commands that are important to learn to use command line 
 1.	git config –global user.name yourName – For configuring the name 
-2.	git config –global user.email youEmail@gmail.com – to set the email 
+2.	git config –global user.email yourEmail@gmail.com – to set the email 
 3.	git config –global user.name – For checking the changes have been affected
 4.	git config –global user.email - For checking the changes have been affected
 5.	code . – to open the VS Code
